@@ -21,6 +21,8 @@
     "require": {
         "composer/installers": "^1.2",
         "droptica/droopler": "8.2.1",
+        "drupal/address": "~1.0",
+        "drupal/commerce": "^2.21",
         "drupal/console": "~1.0",
         "drupal/core-composer-scaffold": "^8.8",
         "drupal/core-recommended": "^8.8",
